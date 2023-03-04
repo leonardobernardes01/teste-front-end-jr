@@ -1,7 +1,6 @@
 import React from "react";
 
 function Tipbar(props) {
-  console.log({props})
   return (
     <>
       {props &&

@@ -4,10 +4,6 @@ import "glider-js/glider.min.css";
 import Products from "../Products/index";
 
 function Shelf(props) {
-
-
-  console.log(props.title, "shelf")
-
   return (
     <section className="content__shelf">
       <h1>Produtos relacionados</h1>
